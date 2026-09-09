@@ -1,5 +1,5 @@
 Participantes:
 
-Raul  
+Raul Cruz
 Gianna Garcia
 
