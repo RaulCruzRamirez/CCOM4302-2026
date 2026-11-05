@@ -96,7 +96,7 @@ public class PlayerMovement : MonoBehaviour
         nextDodgeTime = Time.time + dodgeCooldown;
     }
 
-    // flag that true if the floor is under the player
+    // flag that's true if the floor is under the player
     private bool IsGrounded()
     {
         // way to check if the character is the correct distance from the ground, returns true or false
